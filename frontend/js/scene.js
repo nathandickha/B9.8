@@ -38,8 +38,8 @@ const SPA_THROAT_BLUE_LENGTH_SHRINK = 0.00;
 const SPA_THROAT_BLUE_LENGTH_EXTRA = 0.035; // positive value extends blue throat further along wall
 
 // Orange interior spa void debug box (separate from blue/yellow).
-const SPA_INTERIOR_CLEAR_WALL_INSET_XY = 0.20;
-const SPA_INTERIOR_CLEAR_EXTRA_INSET_XY = 0.30;
+const SPA_INTERIOR_CLEAR_WALL_INSET_XY = 0.01;
+const SPA_INTERIOR_CLEAR_EXTRA_INSET_XY = 0.00;
 const SPA_INTERIOR_CLEAR_EXTRA_INSET_Z = 0.02;
 const SPA_INTERIOR_CLEAR_DEBUG_COLOR = 0xff6600;
 const SPA_CHANNEL_BRIDGE_EXTRA = 0.08; // extend the halfway-in-wall channel 80mm to close visual seams
